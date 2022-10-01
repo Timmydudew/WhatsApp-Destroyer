@@ -1,7 +1,5 @@
 import os
 import sys
-import time
-import json
 import random
 import webbrowser
 
@@ -16,4 +14,9 @@ print("c r e a t e d    by    T i m m y")
 code = input("pls write the country code")
 First = input("Input the person number to destroy ")
 if + in code :
-   print("Are you  ready  to destroy ")
+ destroy = input("Are you  ready  to destroy ")
+ if yes or Yes in destroy :
+  pass
+else :
+  print(logo)
+print(logo2)
