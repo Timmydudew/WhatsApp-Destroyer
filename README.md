@@ -1,3 +1,4 @@
+
 <!-- Installation via Termux -->
 <b><details><summary>Installation on Termux</summary></b>
 ```bash
