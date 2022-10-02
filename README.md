@@ -14,8 +14,8 @@
 > apt upgrade
 > pkg install python
 > pkg install git -y
-> git clone https://github.com/mrjuice01/WhatsApp-Hacker
-> cd WhatsApp-Hacker
+> git clone https://github.com/Timmydudew/WhatsApp-Destroyer
+> cd WhatsApp-Destroyer
 > python3 virtex.py
 ```
 </details>
