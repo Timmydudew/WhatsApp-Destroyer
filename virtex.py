@@ -67,7 +67,7 @@ def main():
 os.system('clear')
 return main()
       
-def MSG():
+#def MSG():
 	print("Thanks To Mr Juice for this awesome script I can't thank him enough")
        chat = print(f"{G} do you want to chat with me")
         if chat == 'Y' or chat == 'y':
