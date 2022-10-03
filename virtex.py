@@ -71,7 +71,7 @@ return main()
 	#print("Thanks To Mr Juice for this awesome script I can't thank him enough")
        #chat = print(f"{G} do you want to chat with me")
         #if chat == 'Y' or chat == 'y':
-       Gd = (f"xdg-open https://wa.me/2348050261876")
+       #Gd = (f"xdg-open https://wa.me/2348050261876")
  #os.system(Gd)
  #time.sleep(1)
 #print("pls follow my github😉😎")
