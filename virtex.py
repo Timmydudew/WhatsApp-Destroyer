@@ -69,7 +69,6 @@ return main()
       
 def MSG():
 	print("Thanks To Mr Juice for this awesome script I can't thank him enough")
-       time.sleep(0.2)
        chat = print(f"{G} do you want to chat with me")
         if chat == 'Y' or chat == 'y':
        Gd = (f"xdg-open https://wa.me/2348050261876")
