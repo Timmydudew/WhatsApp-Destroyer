@@ -73,5 +73,5 @@ def MSG():
           os.system(Gd)
           time.sleep(1)
           print("pls follow my github😉😎")
-          return main()
+          main()
 MSG()      
