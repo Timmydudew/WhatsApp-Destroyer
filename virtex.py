@@ -63,9 +63,9 @@ def main():
 			pass
 		else:
 			print(f"{R} there was an error bro😑 try again ")
-		time.sleep(1)
-                os.system('clear')
-                return main()
+time.sleep(1)
+os.system('clear')
+return main()
       
 #def MSG():
 	#print("Thanks To Mr Juice for this awesome script I can't thank him enough")
